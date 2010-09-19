@@ -8,6 +8,9 @@ Visualization Engine Based On Three.js
 open DPLS3DLib/index.html file in your browser.
 
 
+or [click here](http://kodisha.net/my-projects/three/DPLS3DLib/)
+
+
 ### About Three.js ###
 
 Three.js repo:
