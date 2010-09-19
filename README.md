@@ -3,6 +3,10 @@
 Visualization Engine Based On Three.js
 
 
+### How to run ###
+
+open DPLS3DLib/index.html file in your browser.
+
 
 ### About Three.js ###
 
